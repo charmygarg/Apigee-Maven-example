@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Billing">
+    <Basepaths>/</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1586360156872</CreatedAt>
+    <CreatedBy>deeps.deeps1991@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Billing</DisplayName>
+    <LastModifiedAt>1586360156872</LastModifiedAt>
+    <LastModifiedBy>deeps.deeps1991@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0349826d78375bdcc7a3761c95c360f55d941e0c2cf7d207ef313a4a60b855645d23939ae9a5f5ad8df9f42abc21cdfa79d18a2b6c6b8e71cd6535b1a2869df9</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
