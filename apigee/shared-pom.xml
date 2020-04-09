@@ -81,13 +81,13 @@
     <profile>
       <id>test</id>
       <properties>
-        <org>deepsdeeps1991-eval</org>
+        <org>charmygarg-eval</org>
         <options>validate</options>
         <apigee.profile>test</apigee.profile>
         <apigee.env>test</apigee.env>
         <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
         <apigee.apiversion>v1</apigee.apiversion>
-        <apigee.org>deepsdeeps1991-eval</apigee.org>
+        <apigee.org>charmygarg-eval</apigee.org>
         <apigee.username>${username}</apigee.username>
         <apigee.password>${password}</apigee.password>
         <apigee.options>${options}</apigee.options>
