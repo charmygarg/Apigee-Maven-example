@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1db0193-7f5f-45b8-a7b8-1bc8d86daf53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/apigee/shared-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigee/shared-pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a1db0193-7f5f-45b8-a7b8-1bc8d86daf53" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +86,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="411" y="201" width="601" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586760478077">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="411" y="201" width="601" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1586760478077" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586760462385">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1586760462385" />
     <state x="361" y="132" width="710" height="528" key="find.popup" timestamp="1586431905097">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
