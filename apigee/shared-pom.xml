@@ -42,7 +42,6 @@
             <configuration>
               <overwrite>true</overwrite>
               <encoding>UTF-8</encoding>
-              <echo message="basedir parent : ${basedir}"/>
               <outputDirectory>${basedir}/target/apiproxy</outputDirectory>
               <resources>
                 <resource>
@@ -81,13 +80,13 @@
     <profile>
       <id>test</id>
       <properties>
-        <org>charmygarg-eval</org>
+        <org>charmiigarg-96043-eval</org>
         <options>validate</options>
         <apigee.profile>test</apigee.profile>
         <apigee.env>test</apigee.env>
         <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
         <apigee.apiversion>v1</apigee.apiversion>
-        <apigee.org>charmygarg-eval</apigee.org>
+        <apigee.org>charmiigarg-96043-eval</apigee.org>
         <apigee.username>${username}</apigee.username>
         <apigee.password>${password}</apigee.password>
         <apigee.options>${options}</apigee.options>
